@@ -55,6 +55,7 @@ To run the documentation website, open <code>docs/_build/html/index.html</code>
 * **Rohit Jain**  - [Rohit2706](https://github.com/Rohit2706)
 * **Ishita Mediratta**  - [ishitamed19](https://github.com/ishitamed19)
 * **Ahsan Abbas** - [ahsanabbas123](https://github.com/ahsanabbas123)
+* **Kartik Bhatia** - [bhatiakartik10](https://github.com/bhatiakartik10)
 
 ## License
 
